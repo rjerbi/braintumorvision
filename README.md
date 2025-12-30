@@ -6,7 +6,7 @@ This repository contains three main components:
 
 - Tumor Detection (Classification): Binary classification to determine whether a brain MRI contains a tumor or not.
 
--Tumor Segmentation : Pixel-level segmentation using a U-Net architecture to precisely localize tumor regions.
+- Tumor Segmentation : Pixel-level segmentation using a U-Net architecture to precisely localize tumor regions.
 
 - Hybrid Segmentation with Patient Metadata : An enhanced U-Net model that integrates MRI images with clinical patient data using FiLM conditioning for improved segmentation performance.
 
