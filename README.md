@@ -82,4 +82,9 @@ Hybrid U-Net combining MRI images and patient clinical metadata to enhance segme
 - Torchvision  
 - TorchMetrics  
 - OpenCV  
-- Scikit-learn  
+- Scikit-learn
+
+### links to different datatsets :
+- https://www.kaggle.com/datasets/gaborfodor/keras-pretrained-models
+- https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation
+- https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
